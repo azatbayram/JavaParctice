@@ -3,7 +3,7 @@ package Java.day7ControlFlowStatements;
 public class IfStatements {
 
     public static void main(String[] args) {
-
+// if statement
         int score=85;
 
         if(score>=70){
